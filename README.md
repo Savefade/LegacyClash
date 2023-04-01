@@ -1,2 +1,1 @@
-# LegacyClash
 # Happy April Fools
